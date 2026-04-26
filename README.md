@@ -23,13 +23,8 @@
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/gbbelskij/Double_R_IT_Project
+git clone https://github.com/valirijamgeladze/Double_R_IT_Project.git
 cd Double_R_IT_Project
 
 sudo docker-compose up --build
 ```
-
-## Контакты и поддержка
-
-- Issues: [GitHub Issues](https://github.com/gbbelskij/Double_R_IT_Project/issues)
-- Email: bielsky.gleb@mail.ru
