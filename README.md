@@ -21,7 +21,7 @@
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/valirijamgeladze/Double_R_IT_Project.git
+git clone https://github.com/valirijamgeladze/Course_Recommend.git
 cd Double_R_IT_Project
 
 sudo docker-compose up --build
